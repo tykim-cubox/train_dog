@@ -1,0 +1,10 @@
+{
+  "path": "./images/AnimalFace-dog",
+  "cuda": 0,
+  "name": "trial_animalface-dog",
+  "iter": 100000,
+  "start_iter": 0,
+  "batch_size": 8,
+  "im_size": 256,
+  "ckpt": "None"
+}
